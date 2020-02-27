@@ -1,0 +1,14 @@
+para preguntar po familia:
+
+madre(X,paul).
+
+madre(X,peter).
+
+hermanos(paul,peter).
+
+padre(adam,paul).
+
+
+erroneo:
+
+hermanos(eve,adam).
